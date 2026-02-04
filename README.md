@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Hi, I’m Ariba 👋<br>I’m a backend developer passionate about building secure and scalable applications.<br>Currently working with Node.js, Redis caching, JWT authentication, and exploring open-source contributions.<br>Always learning and improving my problem-solving and system design skills.</h3>
+<h3 align="left">Hi, I’m Ariba 👋<br>I’m a backend developer passionate about building secure and scalable applications.<br>Currently working with Python, Redis caching, JWT authentication, and exploring open-source contributions.<br>Always learning and improving my problem-solving and system design skills.</h3>
 
 ###
 
