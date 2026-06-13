@@ -15,11 +15,11 @@
 
 ###
 
-<h3 align="left">Hi, I’m Ariba 👋<br>I’m a backend developer passionate about building secure and scalable applications.<br>Currently working with Python, Redis caching, JWT authentication, and exploring open-source contributions.<br>Always learning and improving my problem-solving and system design skills.</h3>
+<h3 align="left"><br>Hi, I'm Ariba 👋<br> I am a Computer Science student with interests in Backend Engineering and Machine Learning. I enjoy building scalable APIs, experimenting with ML models, and solving real-world problems through software.<br>Currently working with Python, Flask, FastAPI, MySQL, Redis, and Machine Learning while exploring audio processing, AI systems, and cloud-native development.<br>Open Source Contributor at GSSoC 2026 & Nexus Spring of Code 2026.</h3>
 
 ###
 
-<h6 align="left">I'm from India<br><br>- 🔭 I’m working as developer<br>- 📚 I'm currently learning Docker<br>- ⚡ In my free time I design websites & logos</h6>
+<h5 align="left">📍 India<br>- 💻 Building backend applications using Python, Flask, FastAPI, MySQL, and Redis<br>- 🤖 Exploring Machine Learning, Audio Processing, and AI-powered systems<br>- 🚀 Open Source Contributor — GSSoC 2026 & Nexus Spring of Code 2026<br>- 🐳 Currently learning Docker, System Design, and Cloud fundamentals<br>- ⚡ Built projects in Deepfake Audio Detection, Blockchain Security, and AI-based Healthcare</h5>
 
 ###
 
