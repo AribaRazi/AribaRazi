@@ -89,6 +89,14 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AribaRazi&icon=9&color=7)](https://visitcount.itsvg.in)
 
+# BADGES EARNED
+
+
+<img width="200" height="200" alt="167fbe73-7c83-4ffb-82d3-1a8d0ba12a1c" src="https://github.com/user-attachments/assets/645471ff-418e-4f66-b071-7ffacd12762f" />
+<img width="200" height="200" alt="contributor (1)" src="https://github.com/user-attachments/assets/d50d6e1f-4096-4393-a893-385bae5124df" />
+<!-- <img width="200" height="200" alt="contributor" src="https://github.com/user-attachments/assets/fd78bb0b-f8e6-401e-8785-e07ea2db999e" /> -->
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
